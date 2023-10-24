@@ -1,0 +1,5 @@
+create an ec2 instance and allow inbound rule httpd 80.
+Install git.
+
+install httpd.
+
